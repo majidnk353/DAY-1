@@ -36,7 +36,7 @@ operators
 / (division)
 (multiplication)
 // (floor division(to get quotient value without decimal point)
-** (exponetentiation(to find power of numbers)
+** (expontiation(to find power of numbers)
 % (modulus(to find reminder)
 2.comparison operators
 ----------------------
