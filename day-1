@@ -5,7 +5,7 @@ high level intrepeted programming language
 introduced by(guido vann rossum)
 easy to use
 oops
-dynamic type programming language
+dynamic type programming language-(while creating variable we dont want to declare the datatype to assign the value)
 open source
 ---------------------------------
 print("hello world")# -
